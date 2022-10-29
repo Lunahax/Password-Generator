@@ -1,2 +1,4 @@
-# Password-Generator
-Auto-generate a strong 16-char password including lower- and uppercase letters, numbers and symbols
+# Lunahax' Simple Password-Generator
+A simple program to auto-generate a strong 16-char password including lower- and uppercase letters, numbers and symbols **written in a single line of code**. Compatible with any device that's able to run `.exe` files properly
+
+## [Download](https://github.com/Lunahax/Password-Generator/releases)
