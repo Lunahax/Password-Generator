@@ -6,3 +6,6 @@ A simple program to auto-generate a strong 16-char password including lower- and
 ## Usage
 
 After downloading the `.exe` from the link above, double click it and tada: a password should pop up! Copy, save and done!
+
+
+### [Support and help](https://discord.gg/yu8mK4vmJ3)
