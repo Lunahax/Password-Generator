@@ -91,4 +91,4 @@ Password: k73WBe8*xCYQW8^Y
 
 ## <a id="support"></a>Help and Support
 
-<h3><a href="https://discord.gg/yu8mK4vmJ3">https://discord.gg/yu8mK4vmJ3</a></h3>
+<h3><a href="https://discord.gg/cQCkK35FT2">https://discord.gg/cQCkK35FT2</a></h3>
